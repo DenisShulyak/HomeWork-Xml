@@ -1,0 +1,731 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+  <channel>
+    <title>Хабр</title>
+    <link>https://habr.com/ru/all//</link>
+    <description>
+      <![CDATA[ ]]>
+    </description>
+    <language>ru</language>
+    <managingEditor>editor@habr.com</managingEditor>
+    <generator>habr.com</generator>
+    <pubDate>Sun, 10 Mar 2019 09:33:20 GMT</pubDate>
+    <lastBuildDate/>
+    <image>
+      <link>https://habr.com/ru/</link>
+      <url>https://habr.com/images/logo.png</url>
+      <title>Хабр</title>
+    </image>
+    <item>
+      <title>
+        <![CDATA[
+[Перевод] Утечка 809 миллионов email адресов сервиса Verifications.io из-за публично открытой MongoDB
+]]>
+      </title>
+      <guid isPermaLink="true">https://habr.com/ru/post/443122/</guid>
+      <link>
+        https://habr.com/ru/post/443122/?utm_source=habrahabr=rss=443122
+      </link>
+      <description>
+        <![CDATA[
+<i>Примечание переводчика — поводом для перевода статьи стало получение уведомления Have I Been Pwned о том, что мои данные оказались в этой утечке.</i><br>
+ <br>
+ На прошлой неделе исследователи безопасности Bob Diachenko и Vinny Troia <a href="https://securitydiscovery.com/800-million-emails-leaked-online-by-email-verification-service">обнаружили</a> незащищенную базу данных MongoDB, содержащую 150 гигабайт маркетинговой информации в виде открытого текста, включая 763 миллиона <b>уникальных</b> адресов электронной почты. Находка не только огромная, но и необычная. Она содержит данные об отдельных клиентах, а также «деловую информацию», такую как данные о сотрудниках и доходах различных компаний. Это разнообразие может объясняться источником информации: база данных, принадлежащая фирме Verification.io по «проверке» адресов электронной почты. База была отключена в тот же день, когда исследователь сообщил об этом компании.<br> <a href="https://habr.com/ru/post/443122/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=443122#habracut">Читать дальше →</a>
+]]>
+      </description>
+      <pubDate>Sun, 10 Mar 2019 01:39:20 GMT</pubDate>
+      <dc:creator>HeadFore</dc:creator>
+      <category>
+        <![CDATA[ Информационная безопасность ]]>
+      </category>
+      <category>email</category>
+      <category>утечка данных</category>
+    </item>
+    <item>
+      <title>
+        <![CDATA[
+[Перевод] Влюбленный Сократ: кто на самом деле заложил основы западной философии
+]]>
+      </title>
+      <guid isPermaLink="true">https://habr.com/ru/post/443066/</guid>
+      <link>
+        https://habr.com/ru/post/443066/?utm_source=habrahabr=rss=443066
+      </link>
+      <description>
+        <![CDATA[
+<p>Дорогие женщины! Поздравляю Вас с Международным женским днем и наконец-то наступившей весной.</p><br>
+ <p>Хоть я немного и припоздал с поздравлением, но думаю, что буду прощен. А в качестве подарка предлагаю перевод статьи о роли женщины в Истории...</p><br>
+ <p><img src="https://habrastorage.org/webt/de/ub/rl/deubrlcfioikuvihoczbpqnukii.png"></p><br>
+ <p>Откуда Сократ, основоположник западной философии, черпал вдохновение для своих оригинальных идей об истине, любви, справедливости, мужестве и познании? <a href="http://www.armand-dangour.com/socrates-in-love/"><strong>Новое исследование</strong></a>, которое я провел, показывает, что, будучи молодым человеком в 5 веке до н. э. В Афинах, он общался с чрезвычайно умной женщиной, Аспазией Милетской. Я утверждаю, что ее идеи о любви и превосходстве вдохновили его сформулировать ключевые аспекты своей идей, как передал Платон.</p><br>
+ <hr> <a href="https://habr.com/ru/post/443066/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=443066#habracut">Читать дальше →</a>
+]]>
+      </description>
+      <pubDate>Sat, 09 Mar 2019 13:08:35 GMT</pubDate>
+      <dc:creator>vin2809</dc:creator>
+      <category>
+        <![CDATA[ Научно-популярное ]]>
+      </category>
+      <category>научно-популярное</category>
+    </item>
+    <item>
+      <title>
+        <![CDATA[ Анонсировали USB4: что известно о стандарте ]]>
+      </title>
+      <guid isPermaLink="true">https://habr.com/ru/post/443106/</guid>
+      <link>
+        https://habr.com/ru/post/443106/?utm_source=habrahabr=rss=443106
+      </link>
+      <description>
+        <![CDATA[
+В USB Promoter Group представили USB4. Новый стандарт обладает пропускной способностью в 40 Гбит/с и имеет обратную совместимость с USB 3.2, USB 2.0 и Thunderbolt 3.<br>
+ <br>
+ <a href="https://habr.com/ru/company/vasexperts/blog/443106/"><img src="https://habrastorage.org/webt/f4/xd/3s/f4xd3s5qj52rwl9iilj_u23vouu.jpeg"></a> <a href="https://habr.com/ru/post/443106/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=443106#habracut">Читать дальше →</a>
+]]>
+      </description>
+      <pubDate>Sat, 09 Mar 2019 19:17:41 GMT</pubDate>
+      <dc:creator>VASExperts</dc:creator>
+      <category>
+        <![CDATA[ Блог компании VAS Experts ]]>
+      </category>
+      <category>
+        <![CDATA[ IT-стандарты ]]>
+      </category>
+      <category>
+        <![CDATA[ vas experts ]]>
+      </category>
+      <category>
+        <![CDATA[ usb4 ]]>
+      </category>
+      <category>
+        <![CDATA[ стандарты ]]>
+      </category>
+    </item>
+    <item>
+      <title>
+        <![CDATA[ кВт, кВт*ч и кВт/ч ]]>
+      </title>
+      <guid isPermaLink="true">https://habr.com/ru/post/443128/</guid>
+      <link>
+        https://habr.com/ru/post/443128/?utm_source=habrahabr=rss=443128
+      </link>
+      <description>
+        <![CDATA[
+<div style="text-align:center;"><img src="https://habrastorage.org/webt/4b/ze/pd/4bzepdnbvsqz3wqp4mk1lw7ddey.png"></div><br>
+ Увидел (опять/снова/в очередной раз) в одной из недавних статей выражение «5 МВт энергии» и решил, что пора кратко повторить чем отличается кВт от кВт*ч. <br> <a href="https://habr.com/ru/post/443128/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=443128#habracut">Читать дальше →</a>
+]]>
+      </description>
+      <pubDate>Sun, 10 Mar 2019 04:39:24 GMT</pubDate>
+      <dc:creator>andrey_ssh</dc:creator>
+      <category>
+        <![CDATA[ Энергия и элементы питания ]]>
+      </category>
+      <category>
+        <![CDATA[ Квт ]]>
+      </category>
+      <category>
+        <![CDATA[ кВт/ч ]]>
+      </category>
+    </item>
+    <item>
+      <title>
+        <![CDATA[
+Facebook отказывается переносить серверы в страны с нарушением свободы слова и вводит сквозное шифрование
+]]>
+      </title>
+      <guid isPermaLink="true">https://habr.com/ru/post/443084/</guid>
+      <link>
+        https://habr.com/ru/post/443084/?utm_source=habrahabr=rss=443084
+      </link>
+      <description>
+        <![CDATA[
+На днях руководитель социальной сети Facebook Марк Цукерберг опубликовал заявление, согласно которому его компания не будет переносить серверы с личными данными пользователей в страны, где регулярно нарушаются права человека или свобода слова. По словам Цукерберга, Facebook <a href="https://www.facebook.com/notes/mark-zuckerberg/a-privacy-focused-vision-for-social-networking/10156700570096634/">вводит</a> новый подход к конфиденциальности информации. <br>
+ <br>
+ «Пользователи обязаны быть в курсе того, что мы не планируем хранить персональные конфиденциальные данные в странах, где не уделяется должного внимания правам человека, включая праву на личную жизнь и свободу выражения мнений. Делается этого для того, чтобы защитить данные от несанкционированного доступа», — заявил Цукерберг. Список стран при этом не уточняется. <br> <a href="https://habr.com/ru/post/443084/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=443084#habracut">Читать дальше →</a>
+]]>
+      </description>
+      <pubDate>Sat, 09 Mar 2019 22:16:18 GMT</pubDate>
+      <dc:creator>marks</dc:creator>
+      <category>
+        <![CDATA[ Информационная безопасность ]]>
+      </category>
+      <category>
+        <![CDATA[ Социальные сети и сообщества ]]>
+      </category>
+      <category>
+        <![CDATA[ facebook ]]>
+      </category>
+      <category>
+        <![CDATA[ роскомнадзор ]]>
+      </category>
+      <category>
+        <![CDATA[ интернет ]]>
+      </category>
+      <category>
+        <![CDATA[ социальные сервисы ]]>
+      </category>
+    </item>
+    <item>
+      <title>
+        <![CDATA[
+[Перевод] Настройка кластера HA Kubernetes на «голом железе» с GlusterFS & MetalLB. Часть 2/3
+]]>
+      </title>
+      <guid isPermaLink="true">https://habr.com/ru/post/443110/</guid>
+      <link>
+        https://habr.com/ru/post/443110/?utm_source=habrahabr=rss=443110
+      </link>
+      <description>
+        <![CDATA[
+<p><img src="https://habrastorage.org/webt/oa/xl/av/oaxlavwz_atdglepw3r_vn6hmxm.jpeg"></p><br>
+ <p><strong>Часть 1/3 </strong><a href="https://habr.com/ru/company/southbridge/blog/439562/"><strong>тут</strong></a></p><br>
+ <p>Привет и с возвращением! Это вторая часть статьи о настройке кластера Kubernetes на «голом железе». Ранее мы настраивали НА-кластер Kubernetes с помощью внешнего etcd, схемы «ведущий-ведущий» и балансировки нагрузки. Ну а теперь пришло время настроить дополнительную среду и утилиты, чтобы сделать кластер полезнее и максимально приближенным к рабочему состоянию.</p><br>
+ <p>В этой части статьи мы сосредоточимся на настройке внутреннего балансировщика нагрузки сервисов кластера — это будет MetalLB. Также мы установим и настроим распределенное хранилище файлов между нашими рабочими нодами. Будем использовать GlusterFS для постоянных томов, которые доступны в Kubernetes.<br>
+ После выполнения всех действий схема нашего кластера будет выглядеть следующим образом:</p><br>
+ <p><a href="https://habrastorage.org/webt/_v/yp/pe/_vyppenp91uzmkowqv1qcyomnrc.jpeg"><img src="https://habrastorage.org/webt/_v/yp/pe/_vyppenp91uzmkowqv1qcyomnrc.jpeg"></a></p> <a href="https://habr.com/ru/post/443110/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=443110#habracut">Читать дальше →</a>
+]]>
+      </description>
+      <pubDate>Sat, 09 Mar 2019 20:16:19 GMT</pubDate>
+      <dc:creator>nAbdullin</dc:creator>
+      <category>
+        <![CDATA[ Блог компании Southbridge ]]>
+      </category>
+      <category>
+        <![CDATA[ DevOps ]]>
+      </category>
+      <category>
+        <![CDATA[ Серверное администрирование ]]>
+      </category>
+      <category>
+        <![CDATA[ Системное администрирование ]]>
+      </category>
+      <category>k8s</category>
+      <category>bare metal</category>
+      <category>glusterfs</category>
+      <category>metallb</category>
+    </item>
+    <item>
+      <title>
+        <![CDATA[
+Установка Windows через Windows Deployment Services и Microsoft Deployment Toolkit
+]]>
+      </title>
+      <guid isPermaLink="true">https://habr.com/ru/post/442834/</guid>
+      <link>
+        https://habr.com/ru/post/442834/?utm_source=habrahabr=rss=442834
+      </link>
+      <description>
+        <![CDATA[
+Как было написано в одной умной книге — если в вашем IT-отделе нет автоматизированной установки операционной системы, то её создание может быть самой важной задачей, которую вы когда-либо выполняли.<br> <a href="https://habr.com/ru/post/442834/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=442834#habracut">Читать дальше →</a>
+]]>
+      </description>
+      <pubDate>Sat, 09 Mar 2019 17:50:06 GMT</pubDate>
+      <dc:creator>Alx1</dc:creator>
+      <category>
+        <![CDATA[ Серверное администрирование ]]>
+      </category>
+      <category>
+        <![CDATA[ Системное администрирование ]]>
+      </category>
+      <category>
+        <![CDATA[ автоматизация ]]>
+      </category>
+      <category>
+        <![CDATA[ Windows Deployment Services ]]>
+      </category>
+      <category>
+        <![CDATA[ Microsoft Deployment Toolkit ]]>
+      </category>
+    </item>
+    <item>
+      <title>
+        <![CDATA[
+Новый ультразвуковой сенсор позволит «послушать» бактерии — как он устроен
+]]>
+      </title>
+      <guid isPermaLink="true">https://habr.com/ru/post/443092/</guid>
+      <link>
+        https://habr.com/ru/post/443092/?utm_source=habrahabr=rss=443092
+      </link>
+      <description>
+        <![CDATA[
+Инженеры из Квинслендского университета в Австралии разработали новый тип ультразвукового датчика, показатели чувствительности которого значительно превосходят аналоги. Сенсор назвали ультраультразвуковым. Он способен уловить вибрации отдельных клеток и бактерий в организме человека и оценить, нормально ли они функционируют.<br>
+ <br>
+ Рассказываем, как он устроен.<br>
+ <br>
+ <a href="https://habr.com/ru/company/audiomania/blog/443092/"><img src="https://habrastorage.org/webt/41/ek/jq/41ekjqckvwj49nx7wi7odmu-mbu.jpeg"></a> <a href="https://habr.com/ru/post/443092/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=443092#habracut">Читать дальше →</a>
+]]>
+      </description>
+      <pubDate>Sat, 09 Mar 2019 16:55:13 GMT</pubDate>
+      <dc:creator>Audioman</dc:creator>
+      <category>
+        <![CDATA[ Блог компании Аудиомания ]]>
+      </category>
+      <category>
+        <![CDATA[ Звук ]]>
+      </category>
+      <category>
+        <![CDATA[ Научно-популярное ]]>
+      </category>
+      <category>
+        <![CDATA[ аудиомания ]]>
+      </category>
+      <category>
+        <![CDATA[ звук ]]>
+      </category>
+      <category>
+        <![CDATA[ научно-популярное ]]>
+      </category>
+    </item>
+    <item>
+      <title>
+        <![CDATA[
+[Из песочницы] Настройка с нуля принтсервера CUPS с доменной авторизацией и без нее в сети с разными ОС
+]]>
+      </title>
+      <guid isPermaLink="true">https://habr.com/ru/post/443094/</guid>
+      <link>
+        https://habr.com/ru/post/443094/?utm_source=habrahabr=rss=443094
+      </link>
+      <description>
+        <![CDATA[
+Итак. Предположительно, сервис печати CUPS — это мощное решение, позволяющее организовать централизованное управление принтерами в компании. Так оно и есть, но в процессе настройки потребуется провести некоторое время в поисках решения в Google множества мелких неочевидных проблем, особенно, если ваша необходимость выходит за рамки стандартных мануалов по настройке.<br/>
+ <br/>
+ В статье будет описана установка принтсервера CUPS на Ubuntu Server в сети с работающим доменом Active Directory, хотя его наличие совершенно не обязательно и инструкции по настройке взаимодействию с ним можно будет смело пропустить, его настройка, а также настройка клиентских машин Linux и Windows для взаимодействия с данным принт-сервером.<br/>
+ <a href="https://habr.com/ru/post/443094/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=443094#habracut">Читать дальше &rarr;</a>
+]]>
+      </description>
+      <pubDate>Sat, 09 Mar 2019 16:58:16 GMT</pubDate>
+      <dc:creator>melichronsoul</dc:creator>
+      <category>
+        <![CDATA[ *nix ]]>
+      </category>
+      <category>
+        <![CDATA[ Настройка Linux ]]>
+      </category>
+      <category>
+        <![CDATA[ Системное администрирование ]]>
+      </category>
+      <category>CUPS</category>
+      <category>Linux</category>
+      <category>принтсервер</category>
+      <category>доменная авторизация</category>
+      <category>SSSD</category>
+      <category>Winbind</category>
+    </item>
+    <item>
+      <title>
+        <![CDATA[
+Данные на диск запишут с помощью магнитов и лазеров
+]]>
+      </title>
+      <guid isPermaLink="true">https://habr.com/ru/post/443098/</guid>
+      <link>
+        https://habr.com/ru/post/443098/?utm_source=habrahabr=rss=443098
+      </link>
+      <description>
+        <![CDATA[
+В начале этого года группа инженеров из Нидерландов <a href="https://www.tue.nl/en/news/news-overview/10-01-2019-next-generation-photonic-memory-devices-are-light-written-ultrafast-and-energy-efficient/">представила</a> новый способ хранения данных. Он объединил методы магнитной и оптической записи и обладает большей производительностью, чем классические жёсткие диски.<br>
+ <br>
+ <a href="https://habr.com/ru/company/itglobalcom/blog/443098/"><img src="https://habrastorage.org/webt/lj/uw/m2/ljuwm2p_qahc_f1nowpf4w5l7h4.jpeg"></a> <a href="https://habr.com/ru/post/443098/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=443098#habracut">Читать дальше →</a>
+]]>
+      </description>
+      <pubDate>Sat, 09 Mar 2019 17:42:29 GMT</pubDate>
+      <dc:creator>itglobalcom</dc:creator>
+      <category>
+        <![CDATA[ Блог компании ITGLOBAL.COM ]]>
+      </category>
+      <category>
+        <![CDATA[ Хранение данных ]]>
+      </category>
+      <category>
+        <![CDATA[ ITGLOBAL ]]>
+      </category>
+      <category>
+        <![CDATA[ ИТ-ГЛОБАЛ ]]>
+      </category>
+      <category>
+        <![CDATA[ хранение данных ]]>
+      </category>
+    </item>
+    <item>
+      <title>
+        <![CDATA[ ﻿Подсчитаем баги в калькуляторе Windows ]]>
+      </title>
+      <guid isPermaLink="true">https://habr.com/ru/post/443100/</guid>
+      <link>
+        https://habr.com/ru/post/443100/?utm_source=habrahabr=rss=443100
+      </link>
+      <description>
+        <![CDATA[
+<div style="text-align:center;"><img src="https://habrastorage.org/webt/6f/da/q8/6fdaq8pfgpkoynkt0qwqvljuj7e.png"></div><br>
+ На днях компания Microsoft открыла исходный код калькулятора. Это приложение входило во все версии операционной системы Windows. Исходный код разных проектов Microsoft достаточно часто открывался за последние годы, но новость о калькуляторе в первый же день просочилась даже в нетехнологические средства массовой информации. Что ж, это популярная, но очень маленькая программа на языке C++, тем не менее, статический анализ кода с помощью PVS-Studio выявил подозрительные места в коде.<br> <a href="https://habr.com/ru/post/443100/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=443100#habracut">Читать дальше →</a>
+]]>
+      </description>
+      <pubDate>Sat, 09 Mar 2019 18:04:43 GMT</pubDate>
+      <dc:creator>SvyatoslavMC</dc:creator>
+      <category>
+        <![CDATA[ Блог компании PVS-Studio ]]>
+      </category>
+      <category>
+        <![CDATA[ C ]]>
+      </category>
+      <category>
+        <![CDATA[ C++ ]]>
+      </category>
+      <category>
+        <![CDATA[ Open source ]]>
+      </category>
+      <category>
+        <![CDATA[ Visual Studio ]]>
+      </category>
+      <category>
+        <![CDATA[ калькулятор ]]>
+      </category>
+      <category>
+        <![CDATA[ windows ]]>
+      </category>
+      <category>
+        <![CDATA[ операционные системы ]]>
+      </category>
+      <category>
+        <![CDATA[ статический анализ кода ]]>
+      </category>
+      <category>
+        <![CDATA[ pvs-studio ]]>
+      </category>
+      <category>
+        <![CDATA[ c++ ]]>
+      </category>
+    </item>
+    <item>
+      <title>
+        <![CDATA[
+[Из песочницы] Чистая архитектура. Часть I — Введение
+]]>
+      </title>
+      <guid isPermaLink="true">https://habr.com/ru/post/443058/</guid>
+      <link>
+        https://habr.com/ru/post/443058/?utm_source=habrahabr=rss=443058
+      </link>
+      <description>
+        <![CDATA[
+Это вольный и очень краткий пересказ новой книги Роберта Мартина (Дяди Боба) «Чистая Архитектура», выпущенной в 2018 году.<br/>
+ <a href="https://habr.com/ru/post/443058/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=443058#habracut">Читать дальше &rarr;</a>
+]]>
+      </description>
+      <pubDate>Sat, 09 Mar 2019 11:36:14 GMT</pubDate>
+      <dc:creator>orionll</dc:creator>
+      <category>
+        <![CDATA[ Программирование ]]>
+      </category>
+      <category>
+        <![CDATA[ Проектирование и рефакторинг ]]>
+      </category>
+      <category>архитектура</category>
+      <category>дядя боб</category>
+      <category>роберт мартин</category>
+    </item>
+    <item>
+      <title>
+        <![CDATA[
+Про идеи преждевременные и своевременные на примере братьев Гракхов
+]]>
+      </title>
+      <guid isPermaLink="true">https://habr.com/ru/post/443070/</guid>
+      <link>
+        https://habr.com/ru/post/443070/?utm_source=habrahabr=rss=443070
+      </link>
+      <description>
+        <![CDATA[
+Обстоятельства в истории братьев Гракхов сложились так, что малоизвестный эпизод политической борьбы в Римской республике II века до PX превратился в своего рода модельную демонстрацию одного из принципов исторического процесса, словно в окошко позволяя взглянуть на внутреннюю машинерию обычно не скрытых за декорациями исторических процессов.<br>
+ <br>
+ <img src="https://habrastorage.org/webt/u7/ua/70/u7ua70iqstvixkbeayuyjvkcihy.jpeg"><br>
+ <br>
+ История аграрной реформы братьев Гракхов — это наглядная демонстрация, чем опережающие своё время идеи отличаются от идей своевременных. <br>
+ <br>
+ Тиберий и Гай Гракх были братьями-реформаторами, которых разделяло 15 лет разницы в возрасте, но объединяла общая идея: они оба верили в важность и необходимость для Рима назревшей земельной реформы — и, с разницей ровно в 10 лет, каждый из них предпринял попытку её провести. <br> <a href="https://habr.com/ru/post/443070/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=443070#habracut">Читать дальше →</a>
+]]>
+      </description>
+      <pubDate>Sat, 09 Mar 2019 14:08:52 GMT</pubDate>
+      <dc:creator>andorro</dc:creator>
+      <category>
+        <![CDATA[ Социальные сети и сообщества ]]>
+      </category>
+      <category>
+        <![CDATA[ Финансы в IT ]]>
+      </category>
+      <category>
+        <![CDATA[ Читальный зал ]]>
+      </category>
+      <category>
+        <![CDATA[ идеи ]]>
+      </category>
+      <category>
+        <![CDATA[ инновации ]]>
+      </category>
+      <category>
+        <![CDATA[ история ]]>
+      </category>
+    </item>
+    <item>
+      <title>
+        <![CDATA[
+[Из песочницы] Почему при изучении одного языка не стоит оглядываться на другие
+]]>
+      </title>
+      <guid isPermaLink="true">https://habr.com/ru/post/443082/</guid>
+      <link>
+        https://habr.com/ru/post/443082/?utm_source=habrahabr=rss=443082
+      </link>
+      <description>
+        <![CDATA[
+<img src="https://habrastorage.org/webt/sx/yx/52/sxyx52sk348_868vt6tfazxxfw4.png"/><br/>
+ <br/>
+ Предположим, вас заинтересовало это странное слово. Куда вы обратитесь: в переводчик или в толковый словарь? Думаю, второй вариант предпочтительнее.<br/>
+ <a href="https://habr.com/ru/post/443082/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=443082#habracut">Читать дальше &rarr;</a>
+]]>
+      </description>
+      <pubDate>Sat, 09 Mar 2019 14:49:34 GMT</pubDate>
+      <dc:creator>evtn</dc:creator>
+      <category>
+        <![CDATA[ Изучение языков ]]>
+      </category>
+      <category>изучение иностранных языков</category>
+    </item>
+    <item>
+      <title>
+        <![CDATA[
+Открытый вебинар «Разработка высоконагруженных систем на PHP»
+]]>
+      </title>
+      <guid isPermaLink="true">https://habr.com/ru/post/440334/</guid>
+      <link>
+        https://habr.com/ru/post/440334/?utm_source=habrahabr=rss=440334
+      </link>
+      <description>
+        <![CDATA[
+Добрый вечер! В преддверии старта курса <a href="https://otus.pw/Z22g/">«Backend-разработчик на PHP»</a> мы традиционно провели открытый урок. На нём поговорили о высоконагруженных системах, масштабировании, архитектуре. Детально рассмотрели HighLoad, а также основные подходы и тактики при разработке высоконагруженных систем.<br>
+ <br>
+ Были поставлены следующие цели занятия:<br>
+ <br>
+ <ul>
+ <li>обсудить, что такое архитектура систем и зачем она нужна;</li>
+ <li>обсудить, что такое High Load;</li>
+ <li>рассмотреть архитектурные тактики;</li>
+ <li>обсудить курс.</li>
+ </ul><br>
+ Преподаватель — <a href="https://otus.pw/pa98/">Игорь Саханков</a>, разработчик в Booking.com. <br>
+ <br>
+ <div class="oembed"><div><div style="left: 0; width: 100%; height: 0; position: relative; padding-bottom: 56.2493%;"><iframe src="https://www.youtube.com/embed/zt0OUEcljy4?rel=0&amp;showinfo=1&amp;hl=en-US" style="border: 0; top: 0; left: 0; width: 100%; height: 100%; position: absolute;" allowfullscreen scrolling="no"></iframe></div></div></div> <a href="https://habr.com/ru/post/440334/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=440334#habracut">Читать дальше →</a>
+]]>
+      </description>
+      <pubDate>Thu, 14 Feb 2019 15:46:09 GMT</pubDate>
+      <dc:creator>MaxRokatansky</dc:creator>
+      <category>
+        <![CDATA[ Блог компании Отус ]]>
+      </category>
+      <category>
+        <![CDATA[ PHP ]]>
+      </category>
+      <category>
+        <![CDATA[ php ]]>
+      </category>
+      <category>
+        <![CDATA[ архитектура ]]>
+      </category>
+      <category>
+        <![CDATA[ разработка ]]>
+      </category>
+    </item>
+    <item>
+      <title>
+        <![CDATA[
+Жесткие диски в ноутбуках и настольных ПК могут служить источником прослушивания разговоров людей, находящихся рядом
+]]>
+      </title>
+      <guid isPermaLink="true">https://habr.com/ru/post/443080/</guid>
+      <link>
+        https://habr.com/ru/post/443080/?utm_source=habrahabr=rss=443080
+      </link>
+      <description>
+        <![CDATA[
+<img src="https://habrastorage.org/getpro/habr/post_images/4e9/37e/9d8/4e937e9d8045d1634d91cc5f89418886.png"><br>
+ <br>
+ У киберпреступников очень много инструментов и методов получения персональной информации пользователей различных электронных устройств. И далеко не всегда против этих методов могут помочь традиционные способы противодействия злоумышленникам вроде использования антивирусов или внимательной оценки входящих e-mail с приложениями и ссылками. <br>
+ <br>
+ Ученые из Мичиганского университета <a href="https://physics.aps.org/articles/v12/24">обнаружили</a> несколько уязвимостей, основа которых — влияние звуковых волн на элементы вычислительной техники. Две недели назад на конференции American Association for the Advancement of Science (AAAS), проходившей в Вашингтоне, США, группа специалистов во главе с Кевином Фу представили результаты исследования. Согласно им жесткие диски ноутбука или настольного ПК могут записывать разговоры людей, находящихся рядом. <br> <a href="https://habr.com/ru/post/443080/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=443080#habracut">Читать дальше →</a>
+]]>
+      </description>
+      <pubDate>Sat, 09 Mar 2019 14:48:29 GMT</pubDate>
+      <dc:creator>marks</dc:creator>
+      <category>
+        <![CDATA[ Информационная безопасность ]]>
+      </category>
+      <category>
+        <![CDATA[ Компьютерное железо ]]>
+      </category>
+      <category>
+        <![CDATA[ жесткие диски ]]>
+      </category>
+      <category>
+        <![CDATA[ информационная безопасность ]]>
+      </category>
+      <category>
+        <![CDATA[ HDD ]]>
+      </category>
+      <category>
+        <![CDATA[ Кевин Фу ]]>
+      </category>
+    </item>
+    <item>
+      <title>
+        <![CDATA[
+7 основных причин, почему блокируют приложения в Google Play и AppStore
+]]>
+      </title>
+      <guid isPermaLink="true">https://habr.com/ru/post/443040/</guid>
+      <link>
+        https://habr.com/ru/post/443040/?utm_source=habrahabr=rss=443040
+      </link>
+      <description>
+        <![CDATA[
+<div style="text-align:center;"><img src="https://habrastorage.org/webt/z8/ep/zb/z8epzb7wjss9svltggooo1vuzzk.jpeg"></div><br>
+ Наверняка, за последнее время доводилось видеть много страшных историй о том, как блокируют приложения в Google Play и AppStore. Все это связано с привлечением большого внимания к информационной безопасности приложений, а точнее, к факту ее отсутствия.<br> <a href="https://habr.com/ru/post/443040/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=443040#habracut">Читать дальше →</a>
+]]>
+      </description>
+      <pubDate>Sat, 09 Mar 2019 08:13:01 GMT</pubDate>
+      <dc:creator>miproblema</dc:creator>
+      <category>
+        <![CDATA[ Разработка мобильных приложений ]]>
+      </category>
+      <category>
+        <![CDATA[ Разработка под Android ]]>
+      </category>
+      <category>
+        <![CDATA[ Разработка под iOS ]]>
+      </category>
+      <category>
+        <![CDATA[ google play ]]>
+      </category>
+      <category>
+        <![CDATA[ app store ]]>
+      </category>
+      <category>
+        <![CDATA[ блокировки ]]>
+      </category>
+      <category>
+        <![CDATA[ публикация приложений ]]>
+      </category>
+    </item>
+    <item>
+      <title>
+        <![CDATA[
+Как исследователи безопасности получают доступ к защищенным участкам кода iOS
+]]>
+      </title>
+      <guid isPermaLink="true">https://habr.com/ru/post/443046/</guid>
+      <link>
+        https://habr.com/ru/post/443046/?utm_source=habrahabr=rss=443046
+      </link>
+      <description>
+        <![CDATA[
+<p>Издание Motherboard провело <a href="https://motherboard.vice.com/en_us/article/gyakgw/the-prototype-dev-fused-iphones-that-hackers-use-to-research-apple-zero-days">большое расследование</a> того, каким образом исследователи безопасности «вскрывают» iOS-устройства Apple.</p><br>
+ <p><img src="https://habrastorage.org/webt/oc/id/ta/ocidtaeufdrzgkensfblokdrctc.jpeg"></p><br>
+ <p>Оказывается, существует развитый «серый» рынок прототипов iOS-устройств и именно эти прототипы и используют исследователи для нахождения новых способов джейлбрейка.</p><br> <a href="https://habr.com/ru/post/443046/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=443046#habracut">Читать дальше →</a>
+]]>
+      </description>
+      <pubDate>Sat, 09 Mar 2019 09:40:12 GMT</pubDate>
+      <dc:creator>ashotog</dc:creator>
+      <category>
+        <![CDATA[ Информационная безопасность ]]>
+      </category>
+      <category>
+        <![CDATA[ Разработка под iOS ]]>
+      </category>
+      <category>
+        <![CDATA[ apple ]]>
+      </category>
+      <category>
+        <![CDATA[ iphone ]]>
+      </category>
+      <category>
+        <![CDATA[ jailbreak ]]>
+      </category>
+      <category>
+        <![CDATA[ ios ]]>
+      </category>
+    </item>
+    <item>
+      <title>
+        <![CDATA[ [Перевод] Второй пациент с ВИЧ достиг ремиссии ]]>
+      </title>
+      <guid isPermaLink="true">https://habr.com/ru/post/443056/</guid>
+      <link>
+        https://habr.com/ru/post/443056/?utm_source=habrahabr=rss=443056
+      </link>
+      <description>
+        <![CDATA[
+У второго пациента с ВИЧ-1 наблюдается стойкая ремиссия после прекращения лечения. Об этом говорится в докладе ученых из Университетского колледжа и Имперского колледжа Лондона. <br>
+ <br>
+ Описанная в научном журнале Nature история болезни увидела свет 10 лет спустя после первого подобного клинического случая, известного как «берлинский пациент». В публикации участвовали коллеги из Кембриджского и Оксфордского университетов.<br>
+ <br>
+ В обоих случаях пациенту пересадили стволовые клетки от доноров с мутацией гена CCR5, невосприимчивого к ВИЧ.<br>
+ <br>
+ <img src="https://habrastorage.org/webt/yn/rs/gu/ynrsguv_spgk6io8nogdb1kdpeq.jpeg"><br>
+ <br>
+ В новом исследовании пациент находится в стадии ремиссии 18 месяцев после прекращения антиретровирусной терапии (АРТ). <a href="https://habr.com/ru/post/443056/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=443056#habracut">Читать дальше →</a>
+]]>
+      </description>
+      <pubDate>Sat, 09 Mar 2019 11:27:55 GMT</pubDate>
+      <dc:creator>Alena_Smeshnay</dc:creator>
+      <category>
+        <![CDATA[ Будущее здесь ]]>
+      </category>
+      <category>
+        <![CDATA[ Здоровье гика ]]>
+      </category>
+      <category>здоровье</category>
+      <category>вич</category>
+      <category>лечение вич</category>
+    </item>
+    <item>
+      <title>
+        <![CDATA[ Долетит ли «Starship» до Марса? ]]>
+      </title>
+      <guid isPermaLink="true">https://habr.com/ru/post/443060/</guid>
+      <link>
+        https://habr.com/ru/post/443060/?utm_source=habrahabr=rss=443060
+      </link>
+      <description>
+        <![CDATA[
+За почти 60 лет освоения космоса проектов полета к Марсу и другим планетам было много и разной степени проработанности. Но проект SpaceX «Starship» (Звездолет) выделяется среди них по следующим причинам:<br>
+ <br>
+ <ol>
+ <li>Полностью частная инициатива и финансирование, по крайней мере пока.</li>
+ <li>Несмотря на предыдущий пункт, высокая степень готовности. Одна из ключевых технологий (многоразовая жидкостная ступень) <b>уже освоена</b>, ведется строительство прототипа, прошел испытание двигатель.</li>
+ <li>Амбициозность. Не просто слетать на Марс, а начать строить постоянную колонию. И корабль в перспективе может возить за сотню человек. И не только на Марс.</li>
+ <li>Отсутствие ядерных, плазменных <s>и гиперпространственных</s> двигателей. Только ЖРД <s>только хардкор</s>.</li>
+ </ol><br>
+ Почему «Звездолет» сможет обходиться одними ЖРД, как обычно, под катом. <br> <a href="https://habr.com/ru/post/443060/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=443060#habracut">Читать дальше →</a>
+]]>
+      </description>
+      <pubDate>Sat, 09 Mar 2019 11:38:54 GMT</pubDate>
+      <dc:creator>GM-2</dc:creator>
+      <category>
+        <![CDATA[ Будущее здесь ]]>
+      </category>
+      <category>
+        <![CDATA[ Космонавтика ]]>
+      </category>
+      <category>
+        <![CDATA[ Транспорт будущего ]]>
+      </category>
+      <category>
+        <![CDATA[ SpaceX Starship ]]>
+      </category>
+      <category>
+        <![CDATA[ космонавтика ]]>
+      </category>
+    </item>
+  </channel>
+</rss>

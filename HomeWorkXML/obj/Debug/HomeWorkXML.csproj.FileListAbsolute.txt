@@ -1,0 +1,8 @@
+C:\Users\User\source\repos\HomeWorkXML\HomeWorkXML\bin\Debug\HomeWorkXML.exe.config
+C:\Users\User\source\repos\HomeWorkXML\HomeWorkXML\bin\Debug\HomeWorkXML.exe
+C:\Users\User\source\repos\HomeWorkXML\HomeWorkXML\bin\Debug\HomeWorkXML.pdb
+C:\Users\User\source\repos\HomeWorkXML\HomeWorkXML\obj\Debug\HomeWorkXML.csprojAssemblyReference.cache
+C:\Users\User\source\repos\HomeWorkXML\HomeWorkXML\obj\Debug\HomeWorkXML.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\HomeWorkXML\HomeWorkXML\obj\Debug\HomeWorkXML.exe
+C:\Users\User\source\repos\HomeWorkXML\HomeWorkXML\obj\Debug\HomeWorkXML.pdb
+C:\Users\User\source\repos\HomeWorkXML\HomeWorkXML\bin\Debug\XMLFile.xml
